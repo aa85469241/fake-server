@@ -1,0 +1,25 @@
+{
+    "name": "fake-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aa85469241/fake-server.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aa85469241/fake-server/issues"
+    },
+    "homepage": "https://github.com/aa85469241/fake-server#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "json-serve": "^0.1.0",
+        "json-server": "^0.17.1"
+    }
+}
